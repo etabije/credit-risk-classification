@@ -44,3 +44,10 @@ To improve performance:
 Address the class imbalance using techniques such as oversampling or undersampling.
 Use a model that handles class imbalance better, such as Random Forest or Gradient Boosting with class weights.
 By addressing the class imbalance and fine-tuning the model, the institution can develop a more effective tool for identifying high-risk loans.
+
+
+Resources
+Professor Melissa Ingle
+Cassidy Cruz (classmate)
+ChatGPT
+Xpert Learning Assistant

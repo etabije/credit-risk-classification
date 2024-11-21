@@ -26,7 +26,7 @@ Class 1 (High-Risk Loan): 0%
 
 Confusion Matrix:
 18765,     0 
-  619,     0
+619,     0
 
 Summary
 
